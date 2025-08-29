@@ -28,7 +28,7 @@ const FancyCards = () => {
         </View>
       </View>
 
-      <View style={[styles.card,styles.cardElevated]}>
+      {/* <View style={[styles.card,styles.cardElevated]}>
         <Image 
           source={{
             uri:'https://media.istockphoto.com/id/482557081/photo/hawa-mahal-jaipur-india.webp?a=1&b=1&s=612x612&w=0&k=20&c=DvT0nj1f53epEEMwsEM3jTzZH96jG8iM-TvYTDp7wEc='
@@ -43,7 +43,7 @@ const FancyCards = () => {
               <Text style={styles.cardFooter}>12 min, away</Text>
             </View>
         </View>
-      </View>
+      </View> */}
 
     </View>
   )
